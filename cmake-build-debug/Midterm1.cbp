@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/main.cpp">
+		<Unit filename="C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/src/main.cpp">
 			<Option target="Midterm1"/>
 		</Unit>
 		<Unit filename="C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/CMakeLists.txt">

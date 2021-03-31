@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/main.cpp" "C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/cmake-build-debug/CMakeFiles/Midterm1.dir/main.cpp.obj"
+  "C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/src/main.cpp" "C:/Users/leopa/Desktop/Midterm1/KMPAlgorithm/cmake-build-debug/CMakeFiles/Midterm1.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

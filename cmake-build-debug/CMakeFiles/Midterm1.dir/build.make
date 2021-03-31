@@ -76,27 +76,27 @@ include CMakeFiles/Midterm1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Midterm1.dir/flags.make
 
-CMakeFiles/Midterm1.dir/main.cpp.obj: CMakeFiles/Midterm1.dir/flags.make
-CMakeFiles/Midterm1.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Midterm1.dir/main.cpp.obj"
-	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Midterm1.dir\main.cpp.obj -c C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\main.cpp
+CMakeFiles/Midterm1.dir/src/main.cpp.obj: CMakeFiles/Midterm1.dir/flags.make
+CMakeFiles/Midterm1.dir/src/main.cpp.obj: ../src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Midterm1.dir/src/main.cpp.obj"
+	C:\Mingw-w64\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Midterm1.dir\src\main.cpp.obj -c C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\src\main.cpp
 
-CMakeFiles/Midterm1.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Midterm1.dir/main.cpp.i"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\main.cpp > CMakeFiles\Midterm1.dir\main.cpp.i
+CMakeFiles/Midterm1.dir/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Midterm1.dir/src/main.cpp.i"
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\src\main.cpp > CMakeFiles\Midterm1.dir\src\main.cpp.i
 
-CMakeFiles/Midterm1.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Midterm1.dir/main.cpp.s"
-	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\main.cpp -o CMakeFiles\Midterm1.dir\main.cpp.s
+CMakeFiles/Midterm1.dir/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Midterm1.dir/src/main.cpp.s"
+	C:\Mingw-w64\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\leopa\Desktop\Midterm1\KMPAlgorithm\src\main.cpp -o CMakeFiles\Midterm1.dir\src\main.cpp.s
 
 # Object files for target Midterm1
 Midterm1_OBJECTS = \
-"CMakeFiles/Midterm1.dir/main.cpp.obj"
+"CMakeFiles/Midterm1.dir/src/main.cpp.obj"
 
 # External object files for target Midterm1
 Midterm1_EXTERNAL_OBJECTS =
 
-Midterm1.exe: CMakeFiles/Midterm1.dir/main.cpp.obj
+Midterm1.exe: CMakeFiles/Midterm1.dir/src/main.cpp.obj
 Midterm1.exe: CMakeFiles/Midterm1.dir/build.make
 Midterm1.exe: CMakeFiles/Midterm1.dir/linklibs.rsp
 Midterm1.exe: CMakeFiles/Midterm1.dir/objects1.rsp
